@@ -1,6 +1,6 @@
 ## Hi, I'm Deepak 
 
-I'm currently pursuing my Bachelor of Computer Applications (BCA), and I'm in my 2nd year.
+I'm currently pursuing my Bachelor of Computer Applications (BCA), and I'm in my 3rd year.
 I'm passionate about coding and technology, and I love building projects from scratch.
 
 🚀 Future Goals: Become a Software Engineer and contribute to open-source projects<br/>
