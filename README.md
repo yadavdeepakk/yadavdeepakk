@@ -4,7 +4,7 @@ I'm currently pursuing my Bachelor of Computer Applications (BCA), and I'm in my
 I'm passionate about coding and technology, and I love building projects from scratch.
 
 🚀 Future Goals: Become a Software Engineer and contribute to open-source projects<br/>
-🎯 Interests: Web development, app development, and exploring new tech tools<br/>
+🎯 Interests: Web development and exploring new tech tools<br/>
 🌱 Currently learning: Advanced backend concepts and system design<br/>
 
 
