@@ -1,6 +1,6 @@
-## Hi, I'm Deepak 
+## Hi, I'm Deepak Kumar Yadav
 
-I'm currently pursuing my Bachelor of Computer Applications (BCA), and I'm in my 3rd year.
+I'm currently in my final year pursuing my Bachelor of Computer Applications (BCA), and I'm in my 3rd year.
 I'm passionate about coding and technology, and I love building projects from scratch.
 
 🚀 Future Goals: Become a Software Engineer and contribute to open-source projects<br/>
