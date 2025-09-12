@@ -1,4 +1,4 @@
-## Hi, I'm Deepak Kumar Yadav
+## Hii, I'm Deepak Kumar Yadav
 
 I'm currently in my final year pursuing my Bachelor of Computer Applications (BCA).
 I'm passionate about coding and technology, and I love building projects from scratch.
